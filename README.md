@@ -539,15 +539,18 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="763" height="484" alt="Screenshot 2026-05-07 190254" src="https://github.com/user-attachments/assets/00c5c87f-df39-44e2-8546-dc770ca69bdd" />
 
-<img width="779" height="457" alt="Screenshot 2026-05-07 190514" src="https://github.com/user-attachments/assets/d94f3c0a-e2d4-4c4c-93a5-88c247ba7cc5" />
+<img width="461" height="727" alt="image" src="https://github.com/user-attachments/assets/da2746ab-1415-4f2f-8d38-70c4fed3aeed" />
+
 
 
 
 # 1B PROGRAM
 
+<img width="1342" height="718" alt="image" src="https://github.com/user-attachments/assets/c3e0803c-572f-4021-bbf1-7060f55f5c9f" />
+
 <img width="1260" height="675" alt="image" src="https://github.com/user-attachments/assets/db93ac46-1da7-44e8-8e74-149b42d41fd2" />
 
-<img width="1342" height="718" alt="image" src="https://github.com/user-attachments/assets/c3e0803c-572f-4021-bbf1-7060f55f5c9f" />
+
 
 
 ## Result
