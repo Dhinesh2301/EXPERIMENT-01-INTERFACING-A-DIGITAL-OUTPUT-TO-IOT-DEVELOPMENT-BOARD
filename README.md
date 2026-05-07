@@ -537,18 +537,18 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 # 1A PROGRAM
 
-<img width="720" height="1280" alt="1a off" src="https://github.com/user-attachments/assets/7182adf3-8457-4ad5-a07a-7f9dc31bd44e" />
+<img width="763" height="484" alt="Screenshot 2026-05-07 190254" src="https://github.com/user-attachments/assets/00c5c87f-df39-44e2-8546-dc770ca69bdd" />
 
+<img width="779" height="457" alt="Screenshot 2026-05-07 190514" src="https://github.com/user-attachments/assets/d94f3c0a-e2d4-4c4c-93a5-88c247ba7cc5" />
 
-<img width="720" height="1280" alt="1a on" src="https://github.com/user-attachments/assets/a5ead1d8-68fe-4351-96fb-bed4262ccc60" />
 
 
 # 1B PROGRAM
 
-<img width="1280" height="720" alt="1b off" src="https://github.com/user-attachments/assets/fac733a0-e1a6-47a8-9a24-089223cd1138" />
+<img width="1260" height="675" alt="image" src="https://github.com/user-attachments/assets/db93ac46-1da7-44e8-8e74-149b42d41fd2" />
 
+<img width="1342" height="718" alt="image" src="https://github.com/user-attachments/assets/c3e0803c-572f-4021-bbf1-7060f55f5c9f" />
 
-<img width="1280" height="720" alt="1b on" src="https://github.com/user-attachments/assets/cfeb3366-e52b-44b8-9db7-fb9ca1bbe31e" />
 
 ## Result
 
